@@ -132,9 +132,9 @@
       <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-58" />
-    <option name="y" value="82" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="64" />
+    <option name="y" value="6" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
